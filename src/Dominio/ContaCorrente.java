@@ -1,5 +1,5 @@
 package Dominio;
 
-public class ContaCorrente extends Conta {
+public class ContaCorrente<agencia> extends Conta {
 
 }
